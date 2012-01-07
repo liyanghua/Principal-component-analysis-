@@ -1,0 +1,18 @@
+A simple implementation of pca(Principal Components Analysis)
+please refer to the paper:
+http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf
+for more details about pca.
+
+The implementation uses the example data in the paper above.
+
+To run the program, you must install TNT first.
+Please download TNT and JAMA from:
+http://math.nist.gov/tnt/download.html
+
+After you donwload it, please modify the Makefile .
+
+How to run:
+
+cd your_path_to_pca.
+./make
+./pca test_data
